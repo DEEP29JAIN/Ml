@@ -1,0 +1,11 @@
+list=["Deep","Jain",29]
+print(list)
+blu=(["dell","Asus","Hp",27,387.87])
+print(blu)
+Dict = {
+    ("Fun","Bun"):('Run','Sun'), #cannot add tuples at the end.
+    'DJ':'Deep Jain',
+    'AM':'Alagu Meenaa',
+    'KB':'Kishore Baskaran'
+}
+print(Dict)
